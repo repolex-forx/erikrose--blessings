@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/erikrose/blessings/commit/50655345d28627b6fe00210afa253ed0551c8dee",
       "git:hexsha": "50655345d28627b6fe00210afa253ed0551c8dee",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T04:13:27.128247+00:00"
     },
     {
       "@id": "https://repolex.ai/r/erikrose/blessings/commit/08ac25ba28162ba68256dc6b6a47afa9af080c3c",
