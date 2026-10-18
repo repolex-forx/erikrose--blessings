@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "erikrose",
+  "repo": "blessings",
+  "versions": [
+    {
+      "commit": "50655345d28627b6fe00210afa253ed0551c8dee",
+      "parsed_at": "2026-10-18T04:11:18.405381+00:00",
+      "filetree": "filetree/50655345d28627b6fe00210afa253ed0551c8dee.nq.gz",
+      "blobs": [
+        "blob/0af1f0d70471d06526173f6599db9b3e9439eb93.nq.gz",
+        "blob/c1d668a3a6ba140bd304a3733b4a7a1a56f20478.nq.gz",
+        "blob/45e5781cb2b3001a3802074c81ed9064c3888ac6.nq.gz",
+        "blob/af98c0d8771012024562d790ff8aa1c741d8b8bf.nq.gz",
+        "blob/3d3a44e65b8c1b19f226714a460ee708cbf1e633.nq.gz",
+        "blob/3e2fcf09f5bd0fd5322b2a9bb3596604493753ef.nq.gz",
+        "blob/b849aac183e699b6203ae1707e7be86dc5d7791a.nq.gz",
+        "blob/be17e5315746fc352f8f666ef78f76d1645896a5.nq.gz",
+        "blob/63ee5be921bc5758ecca3d938f4887cf92053889.nq.gz",
+        "blob/107a6263f37a4121bb30247a49a4bb95c9232aa7.nq.gz",
+        "blob/94748175b9486be489e9568cf1cdb8fafc0aa36f.nq.gz",
+        "blob/f963d06ab97762cf4894ed1e236813b93df0a34b.nq.gz",
+        "blob/5527fffbc89ccde2b1bdac88ae10799ea0ea4684.nq.gz",
+        "blob/c24653f082c0757f5c5c6c866a7baf5d149bc72b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
